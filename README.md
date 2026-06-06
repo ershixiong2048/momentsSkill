@@ -11,6 +11,14 @@
 
 ## 安装
 
+### 方式一：
+
+打开ClaudeCode/Codex等Agent，发送以下内容
+
+> 帮我安装这个skill  [github地址] 
+
+### 方式二：
+
 将此 skill 目录复制到你的项目的 `.claude/skills/` 目录下：
 
 ```
