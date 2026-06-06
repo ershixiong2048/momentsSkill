@@ -1,6 +1,6 @@
 # 手机朋友圈 - Claude Code Skill
 
-一个用于自动发布微信朋友圈的 Claude Code Skill。
+一个用于自动发布微信朋友圈的 Claude Code Skill。 欢迎到 https://mp.weixin.qq.com/s/WSbQMuWA0Sz3WL-VzoN3PQ  看完整教程
 
 ## 功能
 
