@@ -1,0 +1,8 @@
+{
+  "visibility": {
+    "mode": "hide_from",
+    "group_name": "常用不可见人群"
+  },
+  "delay_between_posts": 5,
+  "device_resolution": null
+}
