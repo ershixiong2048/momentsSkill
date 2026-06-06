@@ -132,7 +132,7 @@ A: 脚本会自动滚动页面，确保按钮可见。
 
 ## 链接我
 
-<img width="750" height="880" alt="个人微信" src="https://github.com/user-attachments/assets/19cade0c-c52d-4e65-8bcb-d16241562616" />
+<img width="187.5" height="220" alt="个人微信" src="https://github.com/user-attachments/assets/19cade0c-c52d-4e65-8bcb-d16241562616" />
 
 
 ## License
