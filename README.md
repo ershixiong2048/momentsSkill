@@ -130,6 +130,11 @@ A: 确保手机已连接，微信已登录，且输入法支持中文输入。
 **Q: 找不到"谁可以看"按钮？**
 A: 脚本会自动滚动页面，确保按钮可见。
 
+## 链接我
+
+<img width="750" height="880" alt="个人微信" src="https://github.com/user-attachments/assets/19cade0c-c52d-4e65-8bcb-d16241562616" />
+
+
 ## License
 
 MIT
