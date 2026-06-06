@@ -17,7 +17,7 @@
 your-project/
 └── .claude/
     └── skills/
-        └── 手机朋友圈/
+        └── weChatMoments/
             ├── SKILL.md
             ├── README.md
             └── scripts/
